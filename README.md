@@ -1,4 +1,7 @@
 # Site-Amanda-Orienta-o-Jur-dica
+
+C:\Users\Ricardo\OneDrive\Área de Trabalho\Site Amanda  Orientação Jurídica\previa.png
+
 ⚖️ Amanda Capitó | Orientação Jurídica
 Este repositório contém o código-fonte da landing page profissional de Amanda Capitó, estudante de Direito e futura profissional jurídica. O projeto foi desenvolvido para apresentar sua trajetória acadêmica, áreas de interesse e facilitar o contato para orientações jurídicas.
 
@@ -38,14 +41,7 @@ JavaScript: (Opcional) Para interatividade no menu e comportamento do botão de 
 
 Google Fonts: Para a tipografia personalizada.
 
-📸 Demonstração
-🚀 Como Visualizar o Projeto
-Clone o repositório:
 
-Bash
-
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-Abra o arquivo index.html em qualquer navegador moderno.
 
 👩‍⚖️ Sobre a Profissional
 Amanda Capitó é estudante de Direito na Autarquia de Ensino Superior de Garanhuns (AESGA). Sua trajetória é marcada pelo interesse em:
