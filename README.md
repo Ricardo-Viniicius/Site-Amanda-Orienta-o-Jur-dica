@@ -1,4 +1,4 @@
-# Site-Amanda-Orienta-o-Jur-dica
+# Site-Amanda-Orientação Juridica
 
 
 ⚖️ Amanda Capitó | Orientação Jurídica
